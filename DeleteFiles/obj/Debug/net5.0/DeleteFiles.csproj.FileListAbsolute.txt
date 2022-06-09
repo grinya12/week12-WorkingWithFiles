@@ -1,0 +1,15 @@
+/Users/GRI$$$HA/Projects/WorkingWithFiles/DeleteFiles/bin/Debug/net5.0/DeleteFiles.deps.json
+/Users/GRI$$$HA/Projects/WorkingWithFiles/DeleteFiles/bin/Debug/net5.0/DeleteFiles.runtimeconfig.json
+/Users/GRI$$$HA/Projects/WorkingWithFiles/DeleteFiles/bin/Debug/net5.0/DeleteFiles.runtimeconfig.dev.json
+/Users/GRI$$$HA/Projects/WorkingWithFiles/DeleteFiles/bin/Debug/net5.0/DeleteFiles.dll
+/Users/GRI$$$HA/Projects/WorkingWithFiles/DeleteFiles/bin/Debug/net5.0/ref/DeleteFiles.dll
+/Users/GRI$$$HA/Projects/WorkingWithFiles/DeleteFiles/bin/Debug/net5.0/DeleteFiles.pdb
+/Users/GRI$$$HA/Projects/WorkingWithFiles/DeleteFiles/obj/Debug/net5.0/DeleteFiles.csproj.AssemblyReference.cache
+/Users/GRI$$$HA/Projects/WorkingWithFiles/DeleteFiles/obj/Debug/net5.0/DeleteFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GRI$$$HA/Projects/WorkingWithFiles/DeleteFiles/obj/Debug/net5.0/DeleteFiles.AssemblyInfoInputs.cache
+/Users/GRI$$$HA/Projects/WorkingWithFiles/DeleteFiles/obj/Debug/net5.0/DeleteFiles.AssemblyInfo.cs
+/Users/GRI$$$HA/Projects/WorkingWithFiles/DeleteFiles/obj/Debug/net5.0/DeleteFiles.csproj.CoreCompileInputs.cache
+/Users/GRI$$$HA/Projects/WorkingWithFiles/DeleteFiles/obj/Debug/net5.0/DeleteFiles.dll
+/Users/GRI$$$HA/Projects/WorkingWithFiles/DeleteFiles/obj/Debug/net5.0/ref/DeleteFiles.dll
+/Users/GRI$$$HA/Projects/WorkingWithFiles/DeleteFiles/obj/Debug/net5.0/DeleteFiles.pdb
+/Users/GRI$$$HA/Projects/WorkingWithFiles/DeleteFiles/obj/Debug/net5.0/DeleteFiles.genruntimeconfig.cache

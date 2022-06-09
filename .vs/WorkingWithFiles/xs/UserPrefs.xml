@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{57016BE9-88D5-496E-9D7F-3A000DA3DED3}|Default">
+  <MonoDevelop.Ide.ItemProperties.DisplayFiles PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CreateDirectory PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WorkingWithFiles/Program.cs">
+    <Files>
+      <File FileName="CreateDirectory/Program.cs" Line="1" Column="1" />
+      <File FileName="CreateFiles/Program.cs" />
+      <File FileName="MoveFiles/Program.cs" />
+      <File FileName="DeleteFiles/Program.cs" />
+      <File FileName="DisplayFiles/Program.cs" />
+      <File FileName="WorkingWithFiles/Program.cs" Line="86" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WorkingWithFiles PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MoveFiles PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DeleteFiles PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CreateFiles PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

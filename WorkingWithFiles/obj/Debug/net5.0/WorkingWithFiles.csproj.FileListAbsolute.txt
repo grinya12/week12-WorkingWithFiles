@@ -1,0 +1,15 @@
+/Users/GRI$$$HA/Projects/WorkingWithFiles — 1/WorkingWithFiles/bin/Debug/net5.0/WorkingWithFiles.deps.json
+/Users/GRI$$$HA/Projects/WorkingWithFiles — 1/WorkingWithFiles/bin/Debug/net5.0/WorkingWithFiles.runtimeconfig.json
+/Users/GRI$$$HA/Projects/WorkingWithFiles — 1/WorkingWithFiles/bin/Debug/net5.0/WorkingWithFiles.runtimeconfig.dev.json
+/Users/GRI$$$HA/Projects/WorkingWithFiles — 1/WorkingWithFiles/bin/Debug/net5.0/WorkingWithFiles.dll
+/Users/GRI$$$HA/Projects/WorkingWithFiles — 1/WorkingWithFiles/bin/Debug/net5.0/ref/WorkingWithFiles.dll
+/Users/GRI$$$HA/Projects/WorkingWithFiles — 1/WorkingWithFiles/bin/Debug/net5.0/WorkingWithFiles.pdb
+/Users/GRI$$$HA/Projects/WorkingWithFiles — 1/WorkingWithFiles/obj/Debug/net5.0/WorkingWithFiles.csproj.AssemblyReference.cache
+/Users/GRI$$$HA/Projects/WorkingWithFiles — 1/WorkingWithFiles/obj/Debug/net5.0/WorkingWithFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GRI$$$HA/Projects/WorkingWithFiles — 1/WorkingWithFiles/obj/Debug/net5.0/WorkingWithFiles.AssemblyInfoInputs.cache
+/Users/GRI$$$HA/Projects/WorkingWithFiles — 1/WorkingWithFiles/obj/Debug/net5.0/WorkingWithFiles.AssemblyInfo.cs
+/Users/GRI$$$HA/Projects/WorkingWithFiles — 1/WorkingWithFiles/obj/Debug/net5.0/WorkingWithFiles.csproj.CoreCompileInputs.cache
+/Users/GRI$$$HA/Projects/WorkingWithFiles — 1/WorkingWithFiles/obj/Debug/net5.0/WorkingWithFiles.dll
+/Users/GRI$$$HA/Projects/WorkingWithFiles — 1/WorkingWithFiles/obj/Debug/net5.0/ref/WorkingWithFiles.dll
+/Users/GRI$$$HA/Projects/WorkingWithFiles — 1/WorkingWithFiles/obj/Debug/net5.0/WorkingWithFiles.pdb
+/Users/GRI$$$HA/Projects/WorkingWithFiles — 1/WorkingWithFiles/obj/Debug/net5.0/WorkingWithFiles.genruntimeconfig.cache

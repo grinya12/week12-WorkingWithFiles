@@ -1,0 +1,5 @@
+/Users/GRI$$$HA/Projects/WorkingWithFiles/obj/Debug/net5.0/WorkingWithFiles.csproj.AssemblyReference.cache
+/Users/GRI$$$HA/Projects/WorkingWithFiles/obj/Debug/net5.0/WorkingWithFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GRI$$$HA/Projects/WorkingWithFiles/obj/Debug/net5.0/WorkingWithFiles.AssemblyInfoInputs.cache
+/Users/GRI$$$HA/Projects/WorkingWithFiles/obj/Debug/net5.0/WorkingWithFiles.AssemblyInfo.cs
+/Users/GRI$$$HA/Projects/WorkingWithFiles/obj/Debug/net5.0/WorkingWithFiles.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+/Users/GRI$$$HA/Projects/WorkingWithFiles/MoveFiles/bin/Debug/net5.0/MoveFiles.deps.json
+/Users/GRI$$$HA/Projects/WorkingWithFiles/MoveFiles/bin/Debug/net5.0/MoveFiles.runtimeconfig.json
+/Users/GRI$$$HA/Projects/WorkingWithFiles/MoveFiles/bin/Debug/net5.0/MoveFiles.runtimeconfig.dev.json
+/Users/GRI$$$HA/Projects/WorkingWithFiles/MoveFiles/bin/Debug/net5.0/MoveFiles.dll
+/Users/GRI$$$HA/Projects/WorkingWithFiles/MoveFiles/bin/Debug/net5.0/ref/MoveFiles.dll
+/Users/GRI$$$HA/Projects/WorkingWithFiles/MoveFiles/bin/Debug/net5.0/MoveFiles.pdb
+/Users/GRI$$$HA/Projects/WorkingWithFiles/MoveFiles/obj/Debug/net5.0/MoveFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GRI$$$HA/Projects/WorkingWithFiles/MoveFiles/obj/Debug/net5.0/MoveFiles.AssemblyInfoInputs.cache
+/Users/GRI$$$HA/Projects/WorkingWithFiles/MoveFiles/obj/Debug/net5.0/MoveFiles.AssemblyInfo.cs
+/Users/GRI$$$HA/Projects/WorkingWithFiles/MoveFiles/obj/Debug/net5.0/MoveFiles.csproj.CoreCompileInputs.cache
+/Users/GRI$$$HA/Projects/WorkingWithFiles/MoveFiles/obj/Debug/net5.0/MoveFiles.dll
+/Users/GRI$$$HA/Projects/WorkingWithFiles/MoveFiles/obj/Debug/net5.0/ref/MoveFiles.dll
+/Users/GRI$$$HA/Projects/WorkingWithFiles/MoveFiles/obj/Debug/net5.0/MoveFiles.pdb
+/Users/GRI$$$HA/Projects/WorkingWithFiles/MoveFiles/obj/Debug/net5.0/MoveFiles.genruntimeconfig.cache

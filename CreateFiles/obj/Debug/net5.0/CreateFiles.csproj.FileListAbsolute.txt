@@ -1,0 +1,15 @@
+/Users/GRI$$$HA/Projects/WorkingWithFiles/CreateFiles/bin/Debug/net5.0/CreateFiles.deps.json
+/Users/GRI$$$HA/Projects/WorkingWithFiles/CreateFiles/bin/Debug/net5.0/CreateFiles.runtimeconfig.json
+/Users/GRI$$$HA/Projects/WorkingWithFiles/CreateFiles/bin/Debug/net5.0/CreateFiles.runtimeconfig.dev.json
+/Users/GRI$$$HA/Projects/WorkingWithFiles/CreateFiles/bin/Debug/net5.0/CreateFiles.dll
+/Users/GRI$$$HA/Projects/WorkingWithFiles/CreateFiles/bin/Debug/net5.0/ref/CreateFiles.dll
+/Users/GRI$$$HA/Projects/WorkingWithFiles/CreateFiles/bin/Debug/net5.0/CreateFiles.pdb
+/Users/GRI$$$HA/Projects/WorkingWithFiles/CreateFiles/obj/Debug/net5.0/CreateFiles.csproj.AssemblyReference.cache
+/Users/GRI$$$HA/Projects/WorkingWithFiles/CreateFiles/obj/Debug/net5.0/CreateFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GRI$$$HA/Projects/WorkingWithFiles/CreateFiles/obj/Debug/net5.0/CreateFiles.AssemblyInfoInputs.cache
+/Users/GRI$$$HA/Projects/WorkingWithFiles/CreateFiles/obj/Debug/net5.0/CreateFiles.AssemblyInfo.cs
+/Users/GRI$$$HA/Projects/WorkingWithFiles/CreateFiles/obj/Debug/net5.0/CreateFiles.csproj.CoreCompileInputs.cache
+/Users/GRI$$$HA/Projects/WorkingWithFiles/CreateFiles/obj/Debug/net5.0/CreateFiles.dll
+/Users/GRI$$$HA/Projects/WorkingWithFiles/CreateFiles/obj/Debug/net5.0/ref/CreateFiles.dll
+/Users/GRI$$$HA/Projects/WorkingWithFiles/CreateFiles/obj/Debug/net5.0/CreateFiles.pdb
+/Users/GRI$$$HA/Projects/WorkingWithFiles/CreateFiles/obj/Debug/net5.0/CreateFiles.genruntimeconfig.cache

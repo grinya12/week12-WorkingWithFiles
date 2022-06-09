@@ -1,0 +1,30 @@
+/Users/GRI$$$HA/Projects/WorkingWithFiles/DisplayFiles/bin/Debug/net5.0/DisplayFiles.deps.json
+/Users/GRI$$$HA/Projects/WorkingWithFiles/DisplayFiles/bin/Debug/net5.0/DisplayFiles.runtimeconfig.json
+/Users/GRI$$$HA/Projects/WorkingWithFiles/DisplayFiles/bin/Debug/net5.0/DisplayFiles.runtimeconfig.dev.json
+/Users/GRI$$$HA/Projects/WorkingWithFiles/DisplayFiles/bin/Debug/net5.0/DisplayFiles.dll
+/Users/GRI$$$HA/Projects/WorkingWithFiles/DisplayFiles/bin/Debug/net5.0/ref/DisplayFiles.dll
+/Users/GRI$$$HA/Projects/WorkingWithFiles/DisplayFiles/bin/Debug/net5.0/DisplayFiles.pdb
+/Users/GRI$$$HA/Projects/WorkingWithFiles/DisplayFiles/obj/Debug/net5.0/DisplayFiles.csproj.AssemblyReference.cache
+/Users/GRI$$$HA/Projects/WorkingWithFiles/DisplayFiles/obj/Debug/net5.0/DisplayFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GRI$$$HA/Projects/WorkingWithFiles/DisplayFiles/obj/Debug/net5.0/DisplayFiles.AssemblyInfoInputs.cache
+/Users/GRI$$$HA/Projects/WorkingWithFiles/DisplayFiles/obj/Debug/net5.0/DisplayFiles.AssemblyInfo.cs
+/Users/GRI$$$HA/Projects/WorkingWithFiles/DisplayFiles/obj/Debug/net5.0/DisplayFiles.csproj.CoreCompileInputs.cache
+/Users/GRI$$$HA/Projects/WorkingWithFiles/DisplayFiles/obj/Debug/net5.0/DisplayFiles.dll
+/Users/GRI$$$HA/Projects/WorkingWithFiles/DisplayFiles/obj/Debug/net5.0/ref/DisplayFiles.dll
+/Users/GRI$$$HA/Projects/WorkingWithFiles/DisplayFiles/obj/Debug/net5.0/DisplayFiles.pdb
+/Users/GRI$$$HA/Projects/WorkingWithFiles/DisplayFiles/obj/Debug/net5.0/DisplayFiles.genruntimeconfig.cache
+/Users/GRI$$$HA/Projects/WorkingWithFiles — 1/DisplayFiles/bin/Debug/net5.0/DisplayFiles.deps.json
+/Users/GRI$$$HA/Projects/WorkingWithFiles — 1/DisplayFiles/bin/Debug/net5.0/DisplayFiles.runtimeconfig.json
+/Users/GRI$$$HA/Projects/WorkingWithFiles — 1/DisplayFiles/bin/Debug/net5.0/DisplayFiles.runtimeconfig.dev.json
+/Users/GRI$$$HA/Projects/WorkingWithFiles — 1/DisplayFiles/bin/Debug/net5.0/DisplayFiles.dll
+/Users/GRI$$$HA/Projects/WorkingWithFiles — 1/DisplayFiles/bin/Debug/net5.0/ref/DisplayFiles.dll
+/Users/GRI$$$HA/Projects/WorkingWithFiles — 1/DisplayFiles/bin/Debug/net5.0/DisplayFiles.pdb
+/Users/GRI$$$HA/Projects/WorkingWithFiles — 1/DisplayFiles/obj/Debug/net5.0/DisplayFiles.csproj.AssemblyReference.cache
+/Users/GRI$$$HA/Projects/WorkingWithFiles — 1/DisplayFiles/obj/Debug/net5.0/DisplayFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GRI$$$HA/Projects/WorkingWithFiles — 1/DisplayFiles/obj/Debug/net5.0/DisplayFiles.AssemblyInfoInputs.cache
+/Users/GRI$$$HA/Projects/WorkingWithFiles — 1/DisplayFiles/obj/Debug/net5.0/DisplayFiles.AssemblyInfo.cs
+/Users/GRI$$$HA/Projects/WorkingWithFiles — 1/DisplayFiles/obj/Debug/net5.0/DisplayFiles.csproj.CoreCompileInputs.cache
+/Users/GRI$$$HA/Projects/WorkingWithFiles — 1/DisplayFiles/obj/Debug/net5.0/DisplayFiles.dll
+/Users/GRI$$$HA/Projects/WorkingWithFiles — 1/DisplayFiles/obj/Debug/net5.0/ref/DisplayFiles.dll
+/Users/GRI$$$HA/Projects/WorkingWithFiles — 1/DisplayFiles/obj/Debug/net5.0/DisplayFiles.pdb
+/Users/GRI$$$HA/Projects/WorkingWithFiles — 1/DisplayFiles/obj/Debug/net5.0/DisplayFiles.genruntimeconfig.cache
